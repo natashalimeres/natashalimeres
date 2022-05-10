@@ -1,8 +1,8 @@
 ### Hello everyone! 👋
 My name is Natasha Limeres, I'm from Santos, Brazil. 
 
-- 💻 I’m currently learning HTML, CSS and JavaScript
-- 📚 Studying Systems Analysis and Development at "Universidade Santa Cecília"
+- 💻 I’m currently learning HTML, CSS, JavaScript and Phyton.
+- 📚 Studying Systems Analysis and Development at "Universidade Santa Cecília".
 
 <div align="center">
   <a href="https://github.com/NatashaLimeres">
