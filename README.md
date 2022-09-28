@@ -3,12 +3,10 @@ Meu nome é Natasha Limeres, tenho 24 anos e sou de Santos, São Paulo.<br>
 🎓 Enfermeira migrando para a área de TI, cursando Análise e Desenvolvimento de Sistemas.<br>
 📚 Atualmente estou estudando HTML, CSS, Java, JavaScript e React para desenvolvimento web e Qualidade de Testes (quality assurence). 
 <br>
-<br>
 <h2>Hello!</h2>
 My name is Natasha Limeres and I’m 24 years old. I'm from Santos, São Paulo.<br>
 🎓 I'm a nurse migrating to IT, studying System Analysis and Development.<br>
 📚 I’m currently learning HTML, CSS, Java, JavaScript, and React (js library) for web development and Quality Test (quality assurence).
-<br>
 <br>
 <h2>👩🏻 Social Links</h2>
 <div>
