@@ -1,15 +1,17 @@
-Olá 👋 <br>
-Meu nome é Natasha Limeres, tenho 24 anos e sou de Santos, São Paulo. Sou formada em Enfermagem migrando para a área de TI, cursando Análise e Desenvolvimento de Sistemas.<br>
-📚 Atualmente estou estudando HTML, CSS e JavaScript para desenvolvimento web e Qualidade de Testes (quality assurence). 
-
-Hello 👋 <br>
-My name is Natasha Limeres and I’m 24 years old. I was born in Santos, São Paulo and currently I'm a nurse, migrating to IT, studying System Analysis and Development.<br>
-📚 I’m currently learning HTML, CSS and JavaScript for web development and quality test (quality assurence).
-
-  
+<b>Olá</b> 👋 <br>
+Meu nome é Natasha Limeres, tenho 24 anos e sou de Santos, São Paulo.<br>
+🎓 Sou formada em Enfermagem migrando para a área de TI, cursando Análise e Desenvolvimento de Sistemas.<br>
+📚 Atualmente estou estudando HTML, CSS, Java, JavaScript e React para desenvolvimento web e Qualidade de Testes (quality assurence). 
+<br>
+<br>
+<b>Hello</b> 👋 <br>
+My name is Natasha Limeres and I’m 24 years old. I'm from Santos, São Paulo.<br>
+🎓 Currently I'm a nurse, migrating to IT, studying System Analysis and Development.<br>
+📚 I’m currently learning HTML, CSS, JavaScript, Java and React (js library) for web development and quality test (quality assurence).
+ 
 ![Snake animation](https://github.com/NatashaLimeres/NatashaLimeres/blob/output/github-contribution-grid-snake.svg)
 
-Social Links:
+<b>Social Links:</b>
 <div>
   <a href="https://instagram.com/natashalimeres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:natashaslimeres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
