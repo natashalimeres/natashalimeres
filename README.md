@@ -7,7 +7,7 @@ Meu nome é Natasha Limeres, tenho 24 anos e sou de Santos, São Paulo.<br>
 <b>Hello</b> 👋 <br>
 My name is Natasha Limeres and I’m 24 years old. I'm from Santos, São Paulo.<br>
 🎓 Currently I'm a nurse, migrating to IT, studying System Analysis and Development.<br>
-📚 I’m currently learning HTML, CSS, JavaScript, Java and React (js library) for web development and Quality Test (quality assurence).
+📚 I’m currently learning HTML, CSS, Java, JavaScript, and React (js library) for web development and Quality Test (quality assurence).
 <br>
 <br>
 <b>Social Links:</b>
