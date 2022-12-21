@@ -1,13 +1,7 @@
 <h2>Olá!</h2>
-Meu nome é Natasha Limeres, tenho 24 anos e sou de Santos, São Paulo.<br>
-🎓 Enfermeira migrando para a área de TI, cursando Análise e Desenvolvimento de Sistemas.<br>
-📚 Atualmente estou estudando HTML, CSS, Java, JavaScript, Typescript e React para desenvolvimento web.
-<br>
-<h2>Hello!</h2>
-My name is Natasha Limeres and I’m 24 years old. I'm from Santos, São Paulo.<br>
-🎓 I'm a nurse migrating to IT, studying System Analysis and Development.<br>
-📚 I’m currently learning HTML, CSS, Java, JavaScript, Typescript and React for web development.
-<br>
+Sou formada em Enfermagem e atualmente estou buscando uma oportunidade para transição de carreira na área da Tecnologia 💜<br> 
+Curso Análise e Desenvolvimento de Sistemas na Unisanta e estou no 3º semestre.<br>
+<h3>Tecnologias:</h3> HTML, CSS, Java, Javascript, Typescript, React.
 <h2>👩🏻 Social Links</h2>
 <div>
   <a href="https://instagram.com/natashalimeres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
