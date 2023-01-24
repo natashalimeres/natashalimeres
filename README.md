@@ -1,7 +1,7 @@
 <h1>Olá!</h1>
 Sou formada em Enfermagem e atualmente estou buscando uma oportunidade para transição de carreira na área da Tecnologia 💜<br> 
 Curso Análise e Desenvolvimento de Sistemas na Unisanta e estou no 3º semestre.<br>
-<h2>🛠️ Tecnologias:</h2> HTML, CSS, Java, Javascript, Typescript, React.
+<h2>🛠️ Tecnologias:</h2> HTML, CSS, Java, Javascript, Typescript, React, Figma.
 <h2>👩🏻 Social Links</h2>
 <div>
   <a href="https://instagram.com/natashalimeres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
