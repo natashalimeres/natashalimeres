@@ -1,5 +1,5 @@
 <h1>Olá!</h1>
-Sou formada em Enfermagem e atualmente estou buscando uma oportunidade para transição de carreira na área da Tecnologia 💜<br> 
+Atualmente, sou estagiária de desenvolvimento Front-End na Grão de Gente 💜<br> 
 Curso Análise e Desenvolvimento de Sistemas na Unisanta e estou no 3º semestre.<br>
 <h2>🛠️ Tecnologias:</h2> HTML, CSS, Java, Javascript, Typescript, React, Figma.
 <h2>👩🏻 Social Links</h2>
