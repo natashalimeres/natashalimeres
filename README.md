@@ -9,5 +9,5 @@ Curso Análise e Desenvolvimento de Sistemas na Unisanta e estou no 3º semestre
   <a href="https://www.linkedin.com/in/natasha-limeres-1b0a97232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/NatashaLimeres/NatashaLimeres/blob/output/github-contribution-grid-snake.svg)
+
 
