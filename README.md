@@ -1,5 +1,5 @@
 <h1>Olá!</h1>
-Atualmente, sou estagiária de desenvolvimento Front-End na Grão de Gente 💜<br> 
+Atualmente, sou estagiária de desenvolvimento Front-End na Grão de Gente.<br> 
 Curso Análise e Desenvolvimento de Sistemas na Unisanta e estou no 3º semestre.<br>
 
 <h2>🛠️ Tecnologias:</h2> 
