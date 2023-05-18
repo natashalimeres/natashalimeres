@@ -1,6 +1,5 @@
-<h1>Olá!</h1>
-Atualmente, sou estagiária de desenvolvimento Front-End na Grão de Gente.<br> 
-Curso Análise e Desenvolvimento de Sistemas na Unisanta e estou no 3º semestre.<br>
+<h1>Hello There!</h1>
+<strong>About me: </strong>Currently, I am an intern in Front-End development at Grão de Gente. I am studying Analysis and Systems Development at Unisanta and I'm in the 3rd semester.
 
 <h2>🛠️ Tecnologias:</h2> 
 <div>
