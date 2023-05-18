@@ -1,7 +1,7 @@
 <h1>Hello There!</h1>
 <strong>About me: </strong>Currently, I am an intern in Front-End development at Grão de Gente. I am studying Analysis and Systems Development at Unisanta and I'm in the 3rd semester.
 
-<h2>🛠️ Tecnologias:</h2> 
+<h2>🛠️ Tecks:</h2> 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
