@@ -1,5 +1,5 @@
 <h1>Hello There!</h1>
-<strong>About me: </strong>Currently, I'm a Front-End Developer at Grão de Gente, where I enhance my knowledge every day and learn new technologies with all the possible support. I am studying Analysis and Systems Development at Unisanta and I'm in the 3rd semester.
+<strong>About me: </strong>Currently, I'm a Front-End Developer at Grão de Gente, where I started my career as an intern. I'm studying Systems Analysis and Development at Unisanta, and I'm currently in my 3rd semester.
 
 <h2>🛠️ Tech Stack</h2> 
 <div>
