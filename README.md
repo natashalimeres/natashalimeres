@@ -1,5 +1,5 @@
 <h1>Hello There!</h1>
-<strong>About me: </strong>Currently, I am a Front-End Developer at Grão de Gente, where I started my career as an Intern. I have the opportunity to contribute to challenging projects, working in a team with other developers in an agile and collaborative environment. I am studying Systems Analysis and Development at Unisanta and I am in the 3rd semester.
+<strong>About me: </strong>Currently, I am a Front-End Developer at Grão de Gente, where I started my career as an Intern. I have the opportunity to contribute to challenging projects, working in a team with other developers in an agile and collaborative environment. I am studying Systems Analysis and Development at Unisanta and I am in the 4rd semester.
 
 <h2>🛠️ Tech Stack</h2> 
 <div>
