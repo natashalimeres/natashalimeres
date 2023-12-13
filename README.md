@@ -1,5 +1,5 @@
 <h1>Hello There!</h1>
-<strong>About me: </strong>Currently, I am a Full Stack Developer at Grão de Gente, where I started my career as an Intern. I have the opportunity to contribute to challenging projects, working in a team with other developers in an agile and collaborative environment.
+<strong>About me: </strong> Dedicated and creative Front-End Developer, always seeking to improve my professional skills and take on new challenges :)
  
   
   </div>
