@@ -1,5 +1,5 @@
 <h1>Hello There!</h1>
-<strong>About me: </strong> Dedicated and creative Front-End Developer, always seeking to improve my professional skills and take on new challenges :) <br>
+<strong>About me: </strong> Dedicated and creative Front-End Developer, always seeking to improve my professional skills and take on new challenges :) <br> <br>
 I have experience in developing applications using React/Next.js with Typescript, Firebase, and MongoDB databases. I have integrated with RESTful APIs, implemented testing, and created Cloud Functions, delivering agile and scalable cloud solutions. Additionally, I have expertise in Node.js/Express.js/Prisma for Back-End applications.
  
   
